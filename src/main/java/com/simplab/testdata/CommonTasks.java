@@ -7,6 +7,7 @@ public class CommonTasks {
                 return a / b;
             }
         }
+        return a / b;
     }
 
     public int pow(int a, int b) {
